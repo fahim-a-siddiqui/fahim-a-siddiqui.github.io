@@ -1,0 +1,74 @@
+
+.blue {
+  background-color:#4b57db ;
+}
+
+.darky {
+  background-color:#1f2527;
+}
+
+.darkblue {
+  background-color: #233252;
+}
+
+.skyblue {
+  background-color: #a2cffe;
+}
+
+.water {
+  background-color: #FFE4C4;
+}
+
+.container-fluid {
+  background-color: #eef4f7;
+}
+
+.base_font {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+
+.head_font {
+  font-family:'Space Mono', monospace;
+}
+
+.btn-outline-primary {
+  border-radius: 40px;
+  width: 30vw;
+  color: white;
+  background-color:  #3366ff;
+  border: none;
+  font-size: 2vw;
+}
+
+.btn-outline-primary:hover {
+  background-color: #4d79ff;
+  text-decoration: underline;
+  transition: 0.3s;
+}
+
+.nav {
+  background-color:#eef4f7;
+  overflow: hidden;
+}
+.nav a {
+  float: left;
+  color: #1f2527;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav a:hover {
+  background-color: #1f2527;
+  color: #eef4f7;
+  text-decoration: underline;
+}
+
+.nav a.active {
+  background-color: #1f2527;
+  color: #eef4f7;
+}
+
+.table-borderless {
+  color: ivory;
+}
