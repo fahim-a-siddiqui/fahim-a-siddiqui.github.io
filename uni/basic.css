@@ -32,7 +32,7 @@
   font-family:'Space Mono', monospace;
 }
 
-.btn-outline-primary {
+.btn-outline-primary{
   border-radius: 40px;
   width: 30vw;
   color: white;
@@ -72,3 +72,11 @@
 .table-borderless {
   color: ivory;
 }
+
+ hr {
+  width: 50vw;
+  color: black;
+}
+
+
+
