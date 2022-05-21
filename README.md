@@ -3,7 +3,7 @@
 
 ## Products
 ### Noter
-![Noter](https://raw.githubusercontent.com/fahim-a-siddiqui/fahim-a-siddiqui.github.io/main/assets/Noter.png)
+![Noter](https://raw.githubusercontent.com/fahim-a-siddiqui/fahim-a-siddiqui.github.io/main/images/nr.png)
 
 *NOTER - the hyper-fast notetaking app.*
 
