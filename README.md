@@ -5,7 +5,7 @@
 ### Noter
 ![Noter](https://raw.githubusercontent.com/fahim-a-siddiqui/fahim-a-siddiqui.github.io/main/assets/Noter.png)
 
-*A simple note taker that runs on little RAM and storage.*
+*NOTER - the hyper-fast notetaking app.*
 
 We plan to build and finish this project. Still in development. 
 
@@ -20,7 +20,6 @@ We usually code in Python, C++, Javascript, and a few other developing prominent
 ## Furthermore
 Please let us know about any problems you are facing concerning this repository by posting an issue or starting a discussion. Visit the Wiki for more information. 
 Website: fahim-a-siddiqui.github.io
-Blog: informativetheblog.wordpress.com
 
 Contact us by emailing us at <informative.supp@gmail.com>
 
