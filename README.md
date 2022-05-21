@@ -7,7 +7,7 @@
 
 *NOTER - the hyper-fast notetaking app.*
 
-We plan to build and finish this project. Still in development. 
+In development. 
 
 ## License
 All of our code are [MIT-License](https://choosealicense.com/licenses/mit/) protected. Please look at the license file for more information about legal activties concerning this repository. Also our work are also licensed by a Creative Commons Attribution-NoDerivatives 4.0 International License. 
