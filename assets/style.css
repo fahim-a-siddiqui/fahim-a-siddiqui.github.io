@@ -40,16 +40,19 @@
     --z-dropdown: 200;
     --z-modal: 1000;
     
-    /* Pine Forest Theme Colors - Light Mode */
-    --background-color: #F5F7F3; /* Light pine needle mist */
-    --heading-color: #1A3025; /* Deep forest green */
-    --text-color: #0F2018; /* Dark pine shadow */
-    --link-color: #2D5016; /* Forest moss */
-    --visited-color: #1E3A11; /* Deep woodland */
-    --main-color: #4A7C59; /* Pine needle green */
-    --code-background-color: #E8EDEA; /* Frosted pine */
-    --code-color: #1A3025; /* Deep forest green */
-    --blockquote-color: #7A9B85; /* Sage green */
+    /* Website Theme Colors - Light Mode */
+    --background-color: #F5F5F5; 
+    --heading-color: #1A1A1A; 
+    --text-color: #1A1A1A; 
+    --link-color: #4A2C2A; 
+    --visited-color: #000000; 
+    --main-color: #1A1A1A; 
+    --code-background-color: #1A1A1A;
+    --code-color: #F5F5F5; 
+    --blockquote-color: #1A1A1A;
+    /* Used F5F5F5 (background, code color), 1A1A1A (heading, text, main, 
+    blockquote, code background), 4A2C2A (link), 000000 (link 
+    hover),*/ 
     
     /* Interactive colors derived from theme */
     --hover-color: white;
@@ -70,8 +73,8 @@
         --link-color: #7AB069; /* Bright moss green */
         --visited-color: #9BC490; /* Light woodland */
         --main-color: #8BB899; /* Soft pine green */
-        --code-background-color: #1A2B1F; /* Dark evergreen */
-        --code-color: #C8D8CE; /* Light pine mist */
+        --code-background-color: #1A2B1F; /* Dark evergreen */ 
+        --code-color: #C8D8CE; /* Light pine mist */ 
         --blockquote-color: #4A6B52; /* Forest undergrowth */
         
         /* Dark mode glow effects */
@@ -152,7 +155,7 @@ a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
 header {
     margin-bottom: var(--spacing-lg);
     padding-bottom: var(--spacing-md);
-    border-bottom: 3px dotted var(--main-color);
+    border-bottom: 3px dashed var(--main-color);
 }
 
 nav a {
@@ -165,7 +168,7 @@ main {
 
 footer {
     margin-top: var(--spacing-lg);
-    border-top: 3px dotted var(--main-color);
+    border-top: 3px dashed var(--main-color);
     padding: 25px 0;
     text-align: center;
 }
@@ -189,7 +192,7 @@ img {
 
 blockquote {
     border-left: 1px solid var(--blockquote-color);
-    color: var(--code-color);
+    color: var(--text-color);
     padding-left: var(--spacing-md);
     font-style: italic;
 }
@@ -214,7 +217,7 @@ code {
     border-radius: var(--radius-sm);
     margin-block-start: 1em;
     margin-block-end: 1em;
-    overflow-x: auto;
+    overflow-x: auto; 
 }
 
 /* =============================================================================
