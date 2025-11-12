@@ -63,6 +63,7 @@ whitelist:
   - jekyll-redirect-from
 
 markdown: kramdown
+highlighter: rouge
 
 compress_html:
   clippings: all

@@ -32,7 +32,7 @@ layout: compress
 
     {% if page.tags %}
   <div class="post-tags">
-    <hr>
+    <div class="tags-separator"></div>
     <p class="tags-label">tags:</p>
     <div class="tags-list">
       {% for tag in page.tags %}
@@ -43,7 +43,18 @@ layout: compress
 {% endif %}
 
 <br>
-<button onclick="window.print()">🖨️ Print</button>
+<div style="display:flex; justify-content:flex-end; align-items:center;">
+  <button class="print-button" onclick="window.print()" aria-label="Print this page">print ↓</button>
+
+  <button class="print-button" onclick="location.href='mailto:?subject=Check out this post&body=I thought you’d enjoy this: {{ page.url | absolute_url }}'" aria-label="Share by Email" style="margin-left:12px;">
+    share↗
+  </button>
+</div>
+
+
+<style>
+
+</style>
 
 
 </main>

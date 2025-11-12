@@ -28,9 +28,15 @@
   </nav> -->
   <div class="bottom-footer">
     <br>
-    <i><a href="{{ site.baseurl }}/feed.xml">rss</a></i>
-    <br><br>
-     <i>{{ site.time | date: '%Y' }} © Fahim Ahmad Siddiqui</i> </div>
+    <div style="display:flex; justify-content:space-between; align-items:center; gap:0.5rem; white-space:nowrap;">
+      <i style="flex:1 1 auto; min-width:0; overflow:hidden; text-overflow:ellipsis;">
+        {{ site.time | date: '%Y' }} © Fahim Ahmad Siddiqui. All Rights Reserved.
+      </i>
+      <a href="{{ site.baseurl }}/feed.xml" class="print-button" style="flex:0 0 auto; margin-left:1px; white-space:nowrap;">RSS↗</a>
+    </div>
+    </div>
+
+     </div>
 </footer>
 
 
