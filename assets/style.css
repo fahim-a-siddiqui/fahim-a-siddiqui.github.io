@@ -1,46 +1,39 @@
-/* =============================================================================
-   JEKYLL BEAR THEME - PINE FOREST AESTHETIC
-   ============================================================================= */
-/* =============================================================================
-   FONTS & IMPORTS
-   ============================================================================= */
+/* As of November 29th, 2025, I've finalized the design of my personal website.
+   This CSS file contains all the styles used across the site. I refuse to change
+   it further, as I have chronic customization disorder (CCD) and must resist the urge
+   to keep tweaking things endlessly. This is the end of the line for me!
+
+*/
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 /* =============================================================================
    CSS CUSTOM PROPERTIES (VARIABLES)
    ============================================================================= */
-
 :root {
     /* Layout */
     --width: 720px;
-    
     /* Typography */
     --font-main: 'Verdana', sans-serif;
     --font-secondary: 'Verdana', sans-serif;
     --font-monospace: 'IBM Plex Mono', monospace;
     --font-scale: 1.2em;
-    
     /* Spacing */
     --spacing-xs: 5px;
     --spacing-sm: 10px;
     --spacing-md: 20px;
     --spacing-lg: 40px;
     --spacing-xl: 60px;
-    
     /* Border radius */
     --radius-sm: 3px;
     --radius-md: 5px;
-    
     /* Transitions */
     --transition-fast: 0.2s;
     --transition-normal: 0.3s;
-    
     /* Z-index scale */
     --z-dropdown: 200;
     --z-modal: 1000;
-    
-    /* Website Theme Colors - Light Mode */
+    /* Website Theme Colors - Yes, no dark mode; sorry */
     --background-color: #F5F5F5; 
     --heading-color: #1A1A1A; 
     --text-color: #1A1A1A; 
@@ -53,7 +46,6 @@
     /* Used F5F5F5 (background, code color), 1A1A1A (heading, text, main, 
     blockquote, code background), 4A2C2A (link), 000000 (link 
     hover)*/ 
-    
     /* Interactive colors derived from theme */
     --hover-color: white;
     --border-color: var(--blockquote-color);
@@ -357,9 +349,12 @@ input[type=reset] {
   font-family: var(--font-secondary);
   transition:  all var(--transition-fast) ease;
 }
+
 .print-button:hover {
     background-color: var(--main-color);
     color: var(--hover-color);
     text-decoration: none;
 }
+
+/* The site stays at it is now. Muwhahaha. I need a break. */
   

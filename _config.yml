@@ -21,7 +21,7 @@
 title: fahim-a-siddiqui
 email: fahimsiddiqui717@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The musings of a human who no longer wishes to exist. If you want to reach me, email me. I don't do social media.
+  I refuse to add a description. If you want to reach me, email me. I don't do social media.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fahim-a-siddiqui.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fahim-a-siddiqui
@@ -57,12 +57,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll_reading_time
 whitelist:
   - jekyll-redirect-from
 
 markdown: kramdown
-highlighter: rouge
 
 compress_html:
   clippings: all
@@ -101,6 +99,7 @@ exclude:
 exclude: [vendor]
 
 Blog: /blog
+Contacts: /contacts
 
 # Add general links to site pages here
 links:
