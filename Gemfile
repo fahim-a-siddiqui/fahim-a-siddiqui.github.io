@@ -1,4 +1,5 @@
-gem 'no-style-please', '~> 0.4.9'
+source "https://rubygems.org"
+gem "no-style-please", "~> 0.4.9"
 gem "kramdown-parser-gfm"
 gem "webrick"
 gem "csv"
