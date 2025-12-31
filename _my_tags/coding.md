@@ -1,4 +1,0 @@
----
-slug: coding
-name: Coding
----
