@@ -1,0 +1,27 @@
+---
+layout: post
+title: treatise on the internet
+category: essay
+---
+
+I've long been squandering over what to do, who to be, what job to seek, what country to settle in, how to learn this and that, and what I want in life. There's so many things to do in life, and having the internet doesn't help at all. The internet is too vast, too large for anyone's needs. 
+
+One moment I could be reading an article on rising Islamophobia in Sydney, at another I could be listening to classical music, searching what yoga stretches I should do in the morning, on what site I could listen to classical music, or how I could learn to make generative art. Here's the problem of being a netizen of the internet: it makes you want to do too many things. 
+
+I am, by nature, of a quite indecisive character. I've been spoilt by my parents in decision-making and things to pursue about. As I've reached my eighteenth year on this bloody planet (it really is bloody; there's so many wars and conflicts going on), I've reached a certain level of freedom, but freedom is something that can easily become another form of imprisonment. Too little freedom is terrible; too much freedom likewise. And the internet gives one too much freedom. 
+
+Think about it. Why does the internet exist? It exists as a mechanism to share knowledge with others, but what is knowledge? Is it going on a four-hour-binge listening to classical music very much past your bedtime, or is it reading a novel your friend recommended to you and which you certainly did not pirate, or is it watching a MIT online lecture on the fundamentals of the Python programming language? 
+
+All three of those things are very different to each other, but they can all be consumed with one silver spoon: your internet connection. The internet is diverse and a host of opposites, relatives, and similarities. As someone who has spent the majority of his youth behind a screen, I can firmly warn you that the internet is an all-consuming abyss, one engineered to devour your being whole. 
+
+The internet began with a simple and fundamental hope and idea: to connect the world and promote joy and happiness. The first thing it surely did, but at the second it has miserably failed. It's easy to point the blame to large multinational companies either derivates of or part of the GAFA group (Google, Amazon, Facebook, and Apple), but it's not only their fault. The history of how the internet came to be is complex, and I'd need to expound entire book-lengths of words to create a decent portrait. I'd rather not to that because it looks daunting and I have other things to do (such as wasting my time by learning irrelevant pieces of information on the internet). 
+
+The human brain was never created to handle such abundancy, or at least I know mine isn't. The entire internet is like a vast farmer's field with fruits of every kind known to the world and one could daze amongst these fruits, hazy and dreaming, and study one of these fruits until their life's candlelight is blown out. Or they could wander fruit to fruit, which I think is what I'm doing at the moment. 
+
+The point is: I'm afraid of what I might become, welding this device of possibilities and never choosing one. Of always wandering, and consuming, and never able to find peace. Of never being able to fill that emptiness that has become such a constant in my life. I'm afraid of what the whole of humanity will become if they walk down my crooked path. I've wasted years of my life on the internet, and although I've just become aware, I still am having troubles to quit this behavioral addiction. Will we all become empty puppets when the corporations have sucked all the attention out of us? To companies, we're nothing more than numbers. Therefore, we're treated as numbers. 
+
+I don't have much of a solution to help our global netizen population. I'm finding one out right now. It's sad to see what the internet has become. I believe this is sufficient proof of The Law of Misused Power, that states that, when given enough time and in the hands of the right person, power will continually be misused. It's a law I've named just now, but have had a feeling of for many years. It's a law that continues to this day. Behind this veneer of compliancy and goodwill lies something much darker: a selfish desire to extend one's control as much as possible. The Law of Misused Power is why dictators exist. It's why autocratic regimes like Putin's Russia or the then-Soviet Union will continue to thrive but within different names and different populations. 
+
+I decided to not name The Law of Misused Power over my own surname, because as a student I've found many scientific laws to possess very redundant names. Imagine if Parkinson's law was instead named Law of Focused Productivity. It'd be such a nicer name because its function would lie in its very own name, and no one would ever need to memorize the names of influential idealists just because they wished to coerce some form of psuedo-immortality.  
+
+The internet is nothing more than a human invention, so like all tools, it too can be misused. It is misused when one spends time on activities they hadn't planned for—a shift in power from user to provider. It is misused when it causes harm to anyone, even in the slights pernicious effect, such as being on one's phone whilst eating and nearly choking on something; though no one died from that, and it could be considered a minuscule harm, it is nevertheless a form of harm.
