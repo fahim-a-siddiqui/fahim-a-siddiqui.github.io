@@ -4,27 +4,27 @@
 entries:
   - title: info
     entries:
-      - title: A place for my thoughts and musings. 
+      - title: A place for my thoughts and musings
       - title: anti-human
-      - title: "My email is <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>. My github username is <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>."
+      - title: "Email: <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>. GitHub: <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>. No, I don't do social media"
     
-  - title: recent essays
+  - title: recent reviews
     post_list:
       limit: 5
-      category: essay
+      category: review
       show_more: true
-      show_more_text: See more essays...
-      show_more_url: essay-archive.html
+      show_more_text: See the wholesome archive...
+      show_more_url: review-archive.html
 
-  - title: recent code
+  - title: recent miscellaneous stuff 
     post_list:
       limit: 5
-      category: code
+      category: misc
       show_more: true
-      show_more_text: See more code...
-      show_more_url: code-archive.html
+      show_more_text: See the rather weird archive...
+      show_more_url: misc-archive.html
 
   - title: rss
     url: feed.xml
 
-  - title: Got anything to say? Please do email me; I'd love to hear from you.
+  - title: Got anything to say? Please do email me; I'd love to hear from you <3

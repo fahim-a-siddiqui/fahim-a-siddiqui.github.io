@@ -1,7 +1,7 @@
 ---
 layout: post
 title: treatise on the internet
-category: essay
+category: misc
 ---
 
 I've long been squandering over what to do, who to be, what job to seek, what country to settle in, how to learn this and that, and what I want in life. There's so many things to do in life, and having the internet doesn't help at all. The internet is too vast, too large for anyone's needs. 
