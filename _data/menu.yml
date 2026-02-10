@@ -6,7 +6,8 @@ entries:
     entries:
       - title: A place for my thoughts and musings
       - title: anti-human
-      - title: "Email: <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>. GitHub: <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>. No, I don't do social media"
+      - title: "Email: <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>" 
+      - title: "GitHub: <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>"
     
   - title: recent reviews
     post_list:
@@ -24,7 +25,8 @@ entries:
       show_more_text: See the rather weird archive...
       show_more_url: misc-archive.html
 
-  - title: rss
+  - title: subscribe via rss
     url: feed.xml
 
-  - title: Got anything to say? Please do email me; I'd love to hear from you <3
+  - title: subscribe via email
+    url: 
