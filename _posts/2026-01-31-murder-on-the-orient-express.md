@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Murder on the Orient Express
-category: review
+title: murder on the Orient Express
+category: posts
 ---
 
 I've long been a fan of Hercule Poirot, and it was so nice to seen him again. I'd read a short story collection of all his small adventures, and I liked how detailed this novel was and its length compared with the brevity of the short stories I was used to with M. Poirot. I'm pretty sure 'M.' stands for Monsieur, not Mister, because Poirot has always been Christie's palate of exploring French language and culture. Did she herself know French? She must've known the basics, for I saw entire phrases in it in the dialogue between characters and numerous French titles like 'Madame de Princesse' which I deduced as just a respectable form to address a princess. I'm sorry, but my French isn't that good yet. I do hope to be fluent soon, God-willing. 
@@ -16,10 +16,10 @@ I'd finished the novel within three nights. Once read, it must be finished. It w
 
 ---
 {: data-content="tl;dr"}
-name & author: Murder on the Orient Express by Agatha Christe
-rating: ★★★★
-line: A slow-burn with an unexpected ending full of eccentric characters, livid words, and a captivating setting featuring my favorite detective ever.
-finished: on January 30th
+name & author: Murder on the Orient Express by Agatha Christe \
+rating: ★★★★ \
+line: A slow-burn with an unexpected ending full of eccentric characters, livid words, and a captivating setting featuring my favorite detective ever. \
+finished: on January 30th \
 
 ---
 {: data-content="footnotes"}

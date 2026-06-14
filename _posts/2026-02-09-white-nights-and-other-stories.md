@@ -1,7 +1,7 @@
 ---
 layout: post
-title: White Nights and Other Stories
-category: review
+title: white Nights and Other Stories
+category: posts
 ---
 Ah, yes indeed a very chilling series of immortal tales told by the Russian literary giant himself: Dostoyevsky. I always have had a problem with pronouncing that name. Dostoyevsky. Anyways, the compilation of stories included the titular *White Nights*, *Notes on Underground*, *A Faint Heart*, *A Christmas Tree and a Wedding*, *Pulzunkov*, *A Little Hero*, and *Mr. Prohartchin*. 
 

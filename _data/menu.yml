@@ -2,31 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: A place for my thoughts and musings
-      - title: anti-human
-      - title: "Email: <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>" 
-      - title: "GitHub: <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>"
+  - title: A place for my thoughts and musings.
+  - title: "Email: <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>" 
+  - title: "GitHub: <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>"
+  - title: "LinkedIn: <a href='https://linkedin.com/in/fahim-ahmad-siddiqui'>fahim-ahmad-siddiqui</a>"
     
-  - title: recent reviews
+  - title: posts
     post_list:
-      limit: 5
-      category: review
+      limit: 3
+      category: posts
       show_more: true
-      show_more_text: See the wholesome archive...
-      show_more_url: review-archive.html
+      show_more_text: See more...
+      show_more_url: posts-archive.html
 
-  - title: recent miscellaneous stuff 
-    post_list:
-      limit: 5
-      category: misc
-      show_more: true
-      show_more_text: See the rather weird archive...
-      show_more_url: misc-archive.html
-
-  - title: subscribe via rss
+  - title: stay in the loop
     url: feed.xml
-
-  - title: subscribe via email
-    url: 
