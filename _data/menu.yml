@@ -3,10 +3,7 @@
 
 entries:
   - title: A place for my thoughts and musings.
-  - title: "email: <a href='mailto:fahimsiddiqui717@gmail.com'>fahimsiddiqui717@gmail.com</a>" 
-  - title: "github: <a href='https://github.com/fahim-a-siddiqui'>fahim-a-siddiqui</a>"
-  - title: "linkedin: <a href='https://linkedin.com/in/fahim-ahmad-siddiqui'>fahim-ahmad-siddiqui</a>"
-    
+  - title: "<a href='mailto:fahimsiddiqui717@gmail.com'>email</a> | <a href='https://github.com/fahim-a-siddiqui'>github</a>"
   - title: posts
     post_list:
       limit: 3
@@ -14,6 +11,5 @@ entries:
       show_more: true
       show_more_text: see more...
       show_more_url: posts-archive.html
-
   - title: stay in the loop
     url: feed.xml
