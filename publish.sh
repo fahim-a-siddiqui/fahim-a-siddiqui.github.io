@@ -1,8 +1,6 @@
-@echo off
-cd /d "%~dp0"
+#!/bin/bash
 
+cd "$(dirname "$0")"
 git add .
 git commit -m "Update"
 git push
-
-pause
