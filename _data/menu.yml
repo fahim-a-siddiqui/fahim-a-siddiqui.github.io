@@ -2,14 +2,5 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: A place for my thoughts and musings.
+  - title: resume website
   - title: "<a href='https://www.linkedin.com/in/fahim-ahmad-siddiqui'>linkedin</a> | <a href='https://github.com/fahim-a-siddiqui'>github</a>"
-  - title: posts
-    post_list:
-      limit: 3
-      category: posts
-      show_more: true
-      show_more_text: see more...
-      show_more_url: posts-archive.html
-  - title: stay in the loop
-    url: feed.xml
