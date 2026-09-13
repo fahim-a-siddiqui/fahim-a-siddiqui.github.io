@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: fahim-a-siddiqui.github.io
+title: fahim-a-siddiqui
 email: fahimsiddiqui717@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   a place for thoughts and musings.
@@ -29,7 +29,7 @@ url: "https://fahim-a-siddiqui.github.io" # the base hostname & protocol for you
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-optional-front-matter 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
